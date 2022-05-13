@@ -1,4 +1,5 @@
 import CategoryItem from "../category-item/category-item.component"
+import { Outlet } from "react-router-dom"
 
 import './category-directory.styles.scss'
 
